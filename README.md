@@ -8,23 +8,21 @@ You will be creating two classification models to fit the provided data, and eva
 Files
 Download the following files to help you get started: -- Done
 
-Module 13 Challenge filesLinks to an external site.
-
 Before You Begin
 Before starting the assignment, be sure to complete the following steps:
 
 Create a new repository for this project called classification-challenge. Do not add this homework assignment to an existing repository.  -- Done
 
-Clone the new repository to your computer.
+Clone the new repository to your computer.  --Done
 
-Inside your local Git repository, add the starter file spam_detector.ipynb from your file downloads.
+Inside your local Git repository, add the starter file spam_detector.ipynb from your file downloads. -- Done -- added the startup file as sub dir for reference
 
-Push these changes to GitHub or GitLab.
+Push these changes to GitHub or GitLab.  -- Done
 
 Instructions
 This challenge consists of the following subsections:
 
-Split the data into training and testing sets.
+Split the data into training and testing sets. 
 
 Scale the features.
 
